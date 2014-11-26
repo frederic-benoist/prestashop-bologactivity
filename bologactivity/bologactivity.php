@@ -8,7 +8,7 @@
  * that is available through the world-wide-web at this URL:
  * http://opensource.org/licenses/afl-3.0.php
  *
- *  @author    Frédéric BENOIST <fbenoist@nextimt.com>
+ *  @author    Frédéric BENOIST <http://www.fbenoist.com/>
  *  @copyright 2013-2014 Frédéric BENOIST
  *  @license   http://opensource.org/licenses/afl-3.0.php  Academic Free License (AFL 3.0)
  */
