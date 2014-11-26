@@ -1,4 +1,4 @@
-# BoLogActivity Prestashop Module
+# BoLogActivity Sample Prestashop Module
 
 PrestaShop Security Module
 Log module install/uninstall and carrier update in PrestaShop
