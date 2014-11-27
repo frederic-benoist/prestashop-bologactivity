@@ -2,6 +2,7 @@
 
 PrestaShop Sample Security Module
 Log module install/uninstall and carrier update in PrestaShop
+
 DON'T USE ON PRODUCTION SERVER
 
 ## Licensing
