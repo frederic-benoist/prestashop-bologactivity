@@ -1,0 +1,19 @@
+{
+  "name": "frederic-benoist/prestashop-bologactivity",
+  "description": "PrestaShop module bologactivity",
+  "homepage": "https://github.com/frederic-benoist/prestashop-bologactivity",
+  "license": "AFL-3.0",
+  "authors": [
+    {
+      "name": "Frédéric BENOIST SA",
+      "email": "contact@fbenoist.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}
